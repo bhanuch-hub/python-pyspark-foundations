@@ -43,3 +43,4 @@ with open("summary.json", "w") as f:
 
 print("Wrote", len(clean_rows), "clean rows to clean.csv")
 print("Summary:", summary)
+
